@@ -1,0 +1,143 @@
+{
+  "landing": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Smart Transportation Made Simple",
+      "subtitle": "Experience the future of bus booking with our comprehensive platform designed for modern travelers.",
+      "contact-button": "Contact Us",
+      "learn-more": "Learn More"
+    },
+    "about": {
+      "title": "About Us",
+      "description": "An innovative digital platform redefining the intercity bus travel experience in Saudi Arabia and beyond. RelayBus delivers comprehensive solutions for all stakeholders in the intercity bus travel ecosystem."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "Leading the future of smart transportation in the Middle East through the unified RelayBus platform."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "Providing safe, efficient, and innovative bus transportation solutions that support Saudi Arabia's Vision 2030."
+    },
+    "services": {
+      "title": "RelayBus Services",
+      "subtitle": "Our platform delivers comprehensive solutions for all stakeholders in the intercity bus travel ecosystem"
+    },
+    "service": {
+      "operators": {
+        "title": "For Operators",
+        "feature1": "Comprehensive fleet management dashboard",
+        "feature2": "Accurate operational data and intelligent analytics",
+        "feature3": "Bus rental and utilization opportunities",
+        "feature4": "Optimized revenues and enhanced operational efficiency"
+      },
+      "companies": {
+        "title": "For Companies and Institutions",
+        "feature1": "Highly efficient intercity employee transportation",
+        "feature2": "Flexible booking for various group sizes",
+        "feature3": "Advanced fleet and route management",
+        "feature4": "Cost-effective solutions and detailed reports"
+      },
+      "passengers": {
+        "title": "For Passengers (Individuals)",
+        "feature1": "Easy and instant booking through a user-friendly app",
+        "feature2": "Wide range of routes and times to choose from",
+        "feature3": "Secure payment options and digital tickets",
+        "feature4": "Real-time trip tracking and notifications"
+      },
+      "umrah": {
+        "title": "For Umrah & Hajj Services",
+        "feature1": "Specialized packages for Umrah and Hajj pilgrimages",
+        "feature2": "Comfortable and safe transportation for pilgrims",
+        "feature3": "Flexible scheduling for religious travel needs",
+        "feature4": "Dedicated customer support for pilgrims"
+      }
+    },
+    "differentiators": {
+      "title": "Why RelayBus?",
+      "subtitle": "Discover what makes us the preferred choice for smart transportation",
+      "availability247": {
+        "title": "24/7 Availability",
+        "description": "Booking and customer support available around the clock, ensuring you can plan your journey at any time."
+      },
+      "flexibility": {
+        "title": "Flexibility and Easy Cancellation",
+        "description": "Flexible cancellation policies and easy trip modifications to adapt to your changing plans."
+      },
+      "prices": {
+        "title": "Best Prices Guaranteed",
+        "description": "Competitive pricing with transparent costs and special offers to ensure maximum value for your money."
+      },
+      "safety": {
+        "title": "Enhanced Safety and Verification",
+        "description": "Rigorous verification of all drivers and vehicles to guarantee the highest safety standards for every trip."
+      },
+      "availability": {
+        "title": "Instant Seat Availability",
+        "description": "Immediate knowledge of seat availability and booking confirmation with real-time updates across all devices."
+      },
+      "management": {
+        "title": "Unified Management from a Single Source",
+        "description": "Streamlining and unifying all administrative operations through one comprehensive platform with centralized control."
+      }
+    },
+    "footer": {
+      "tagline": "Smart Transportation Solutions",
+      "quicklinks": {
+        "title": "Quick Links",
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contact": "Contact"
+      },
+      "contact": {
+        "title": "Contact Us"
+      },
+      "support": {
+        "title": "Support",
+        "help": "Help Center",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+      },
+      "copyright": {
+        "text": "© 2024 RelayBus. All rights reserved."
+      }
+    },
+    "contact": {
+      "location": {
+        "address": "Riyadh, Saudi Arabia"
+      }
+    },
+    "ourservices": {
+      "title": "Our Services",
+      "subtitle": "We provide a comprehensive range of transportation services specifically designed to meet your diverse needs within Saudi Arabia's Vision 2030 framework.",
+      "tab": {
+        "corporate": "Corporate Services",
+        "individual": "Individual Services"
+      },
+      "corporate": {
+        "title": "Corporate Transportation Solutions",
+        "description": "Streamline your company's transportation needs with our enterprise-grade solutions designed for operational excellence and employee satisfaction.",
+        "feature1": "Dedicated fleet management for corporate routes",
+        "feature2": "Employee transportation scheduling and tracking",
+        "feature3": "Customized billing and reporting systems",
+        "feature4": "24/7 support and real-time monitoring",
+        "feature5": "Flexible contracts tailored to your business needs"
+      },
+      "individual": {
+        "title": "Individual Travel Services",
+        "description": "Experience comfortable, reliable, and convenient intercity travel with our passenger-focused services designed for modern travelers.",
+        "feature1": "Easy online booking with instant confirmation",
+        "feature2": "Real-time bus tracking and notifications",
+        "feature3": "Multiple payment options including digital wallets",
+        "feature4": "Special Umrah and Hajj travel packages",
+        "feature5": "Comfortable seating and onboard amenities"
+      }
+    }
+  }
+}
